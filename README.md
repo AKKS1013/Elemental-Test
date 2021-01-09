@@ -1,2 +1,2 @@
 # Elemental
-An infinite platformer gmae using uniyt
+An infinite platformer gmae using unity
