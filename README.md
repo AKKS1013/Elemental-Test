@@ -1,2 +1,2 @@
 # Elemental
-An infinite platformer gmae using unity
+An infinite platformer game using unity
